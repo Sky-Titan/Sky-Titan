@@ -16,7 +16,7 @@
 * Level 1 ~ 5  
 
 |Skill|Level|
-|--------|-|
+|--------|:-:|
 |`Android`|3|
 |`Java`|3|
 |`Kotlin`|1|
