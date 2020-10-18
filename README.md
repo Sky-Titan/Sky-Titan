@@ -1,4 +1,4 @@
-# Sky-Tian
+# Sky-Titan
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sky-Titan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
