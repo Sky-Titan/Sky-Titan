@@ -21,5 +21,5 @@
 |--------|:-:|
 |`Android`|3|
 |`Java`|3|
-|`Kotlin`|1|
+|`Kotlin`|2|
 |`Database`|2|
