@@ -12,6 +12,8 @@
 > South Korea
 ## City
 > Daegu
+## Position
+> Android Native Developer
 ## Skills 
 * Level 1 ~ 5  
 
