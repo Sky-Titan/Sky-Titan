@@ -13,7 +13,7 @@
 ## City
 > Daegu
 ## Position
-> Android Native Developer
+> iOS Native Developer
 ## Skills 
 * Level 1 ~ 5  
 
