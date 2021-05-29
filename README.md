@@ -23,3 +23,5 @@
 |`Java`|3|
 |`Kotlin`|2|
 |`Database`|2|
+|`Swift`|3|
+|`iOS`|3|
